@@ -21,7 +21,7 @@ def Chesk_Predicat(num_1, num_2): # проверяем истинность ут
 print('Enter first number') # вводим первое число дапозона проверки
 num_1 = int(input())
 
-print('Enter second number') # вводим первое число дапозона проверки
+print('Enter second number') # вводим второе число дапозона проверки
 num_2 = int(input())
 
 Chesk_Predicat(num_1, num_2)
