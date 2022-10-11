@@ -17,6 +17,3 @@ print('Enter the number day of week')
 num_day = int(input())
 
 Check_Day(num_day)
-
-
-
